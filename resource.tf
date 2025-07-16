@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "storeterra" {
-    name     = "example-resources"
+    name     = "jenkinsrsg"
     location = "East US"
 }
  
